@@ -1,0 +1,55 @@
+DOCTYPE html>
+<<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="THIS IS A DARK WEBSITE">
+    <meta name="author" content="GOODNESS">
+    <meta name="keywords" content="WORDS, DRINKS, FOOD">
+    <meta name="viwepoint" content="width=device=width, initial-scale=1.0">
+    <title>Goodness's Website</title>
+  </head>
+  <body style="background-color:pink ;">
+    <h1><b><i><p style="color: red;">TRY NOT TO READ!!<i></b></h1>
+      <hr><hr/>
+    <br>
+<p><p style="color: white;"> Even when i try not to breath i always end up doing so, its sick asf!!
+  <br>
+  <a href="http://www,google.com" target="_blank">dont click me lmaoo!</a>
+  <br>
+  <a width="100" height="66" href="IMG_1127.JPG" >nutella</a>
+  <br>
+  <video src="play me.mp4" controls width="300"></video>
+  <br>
+<ol type="a" style="color: red;">
+
+    <li><a href="tweet">mango</a><li>
+    <li>meat</li>
+    <li>beef</li>
+  </ol>
+  <br>
+
+  <table>
+    <caption><h2>List of fuckers</h2></caption>
+    <tr>
+      <th>one</th>
+      <th>two</th>
+      <th>three</th>
+</tr>
+      <td>femi</td>
+      <td>dupe</td>
+      <td>shola</td>
+    </tr>
+
+  </table>
+<br>
+  <input type="text" />
+  <br>
+  <input type="password" />
+  <br>
+  <input type="date" />
+
+
+
+  </body>
+</html>
